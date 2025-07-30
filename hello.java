@@ -6,6 +6,7 @@ class hello
                 System.out.println("for pollscm made changes in code");
                 System.out.println("webhook ");
                 System.out.println("the moment code is pushed job is triggered in webhook");
+                System.out.println("in build peridoically code changes not reuired");
                 
         }
 }
