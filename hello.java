@@ -2,6 +2,6 @@ class hello
 {
         public static void main(String args[])
         {
-                system.out.println("hello world in sandhya repositoy testbarnch  main")
+                system.out.println("hello world in sandhya repositoy testbarnch  main");
         }
 }
